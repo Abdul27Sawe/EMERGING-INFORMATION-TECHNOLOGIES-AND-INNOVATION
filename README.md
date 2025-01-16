@@ -1,4 +1,4 @@
-*ISM 3 _GROUP 08*
+*ISM  _GROUP 08*
 
 # PYTHON BASICS
   - [ ] python stuff
